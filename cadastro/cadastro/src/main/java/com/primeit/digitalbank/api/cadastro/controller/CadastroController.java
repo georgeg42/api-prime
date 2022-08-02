@@ -44,4 +44,5 @@ public class CadastroController {
 			return new ResponseEntity<>(HttpStatus.NOT_FOUND);
 		}
 	}
+	//exemplo de alteração no git/gitHub
 }
